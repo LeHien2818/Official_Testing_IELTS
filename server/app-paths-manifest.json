@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/course/page": "app/course/page.js",
+  "/course/test/[testid]/answer/page": "app/course/test/[testid]/answer/page.js",
+  "/course/test/[testid]/page": "app/course/test/[testid]/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/show-more/page": "app/dashboard/show-more/page.js",
+  "/examination/page": "app/examination/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/homepage/page": "app/homepage/page.js",
+  "/page": "app/page.js",
+  "/signin/page": "app/signin/page.js"
+}
